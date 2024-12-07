@@ -1,0 +1,8 @@
+Date: Sat Dec 07 19:45:34 MSK 2024   Score: 100
+Date: Sat Dec 07 19:48:35 MSK 2024   Score: 900
+Date: Sat Dec 07 19:49:28 MSK 2024   Score: 5360
+Date: Sat Dec 07 19:49:52 MSK 2024   Score: 1210
+Date: Sat Dec 07 19:50:27 MSK 2024   Score: 6440
+Date: Sat Dec 07 19:50:51 MSK 2024   Score: 1540
+Date: Sat Dec 07 19:52:08 MSK 2024   Score: 400
+Date: Sat Dec 07 20:06:35 MSK 2024   Score: 0
